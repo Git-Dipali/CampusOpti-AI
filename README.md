@@ -432,7 +432,7 @@ Third-Year B.Tech – Artificial Intelligence & Data Science
 
 Dr. D. Y. Patil College of Engineering, Akurdi, Pune
 
-Interested in Artificial Intelligence, Machine Learning, Optimization Algorithms and Full-Stack Development.
+Interested in Artificial Intelligence, Machine Learning, Optimization Algorithms and Data Science Engineering.
 
 ---
 
