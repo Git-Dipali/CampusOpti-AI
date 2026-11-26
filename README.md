@@ -426,7 +426,7 @@ The concepts used in CampusOpti AI can be applied to:
 
 ## 👩‍💻 Developer
 
-**Mangesh Tate**
+**DIPALO PATIL**
 
 Third-Year B.Tech – Artificial Intelligence & Data Science
 
